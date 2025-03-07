@@ -27,6 +27,8 @@ Este manual fornecerá uma visão geral de como o LifeBalanceGPT funciona, como 
 6. [KPIs e Métricas de Avaliação](#kpis-e-métricas-de-avaliação)
 7. [FAQ](#faq)
 8. [Contribuindo e Reportando Problemas](#contribuindo-e-reportando-problemas)
+9. [Automação da Execução do Prompt](#automação-da-execução-do-prompt)
+
 
 ---
 
@@ -143,6 +145,21 @@ Sim, você pode pular etapas ou voltar a etapas anteriores a qualquer momento.
 ## Contribuindo e Reportando Problemas
 
 Se você encontrar algum problema ou tiver sugestões para melhorar o LifeBalanceGPT, sinta-se à vontade para abrir uma **issue** no [repositório do GitHub](https://github.com/pedrouva/LifeBalanceGPT). Contribuições são bem-vindas!
+
+---
+
+## Automação da Execução do Prompt
+
+Para facilitar o uso do **LifeBalanceGPT**, você pode automatizar a execução do prompt diretamente na IA **Grok**. Basta acessar o link abaixo, e o prompt será carregado automaticamente, pronto para iniciar as interações:
+
+🔗 **[Executar Prompt no Grok](https://grok.com/share/bGVnYWN5_571bb786-8a13-41f1-96d7-3eab060f23ac)**
+
+### Como Funciona:
+1. Clique no link acima.
+2. O prompt será carregado automaticamente na plataforma Grok.
+3. A partir daí, você pode começar a interagir com o LifeBalanceGPT imediatamente, sem precisar copiar e colar o prompt manualmente.
+
+Isso torna o processo mais rápido e conveniente, permitindo que você comece a criar sua rotina personalizada em poucos segundos.
 
 ---
 
