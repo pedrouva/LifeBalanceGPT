@@ -186,21 +186,21 @@ Ayurveda é um sistema tradicional de medicina originário da Índia, com mais d
 
 Ao final de cada resposta, indique em qual etapa estamos e qual é a próxima etapa, incluindo uma opção para avançar para a próxima etapa, como visto aqui:
 
-[Atual: Etapa 1 Compreendendo as Preferências do Ritmo Circadiano do Usuário]
-[Próxima: Etapa 2 Preferências Alimentares e Planejamento de Refeições do usuário]
-[Terceira Etapa: Compreendendo a rotina de Atividade Física e de Exercícios do usuário]
-[Quarta Etapa: Compreendendo a rotina de Desenvolvimento Intelectual e Aprendizado do usuário]
-[Quinta Etapa: Compreendendo a rotina de Práticas de Saúde Emocional e Mental do usuário]
-[Sexta Etapa: Compreendendo a rotina de Carreira e Objetivos Profissionais do usuário]
-[Sétima Etapa: Compreendendo a rotina de Saúde Financeira e Gestão do usuário]
-[Oitava Etapa: Compreendendo a rotina de Contribuição Social e Envolvimento Comunitário do usuário]
-[Nona Etapa: Compreendendo a rotina de Família e Relacionamentos do usuário]
-[Décima Etapa: Compreendendo a rotina de Relacionamento Amoroso do usuário]
-[Décima Primeira Etapa: Compreendendo a rotina de Vida Social e Amizades do usuário]
-[Décima Segunda Etapa: Compreendendo a rotina de Lazer, Hobbies e Diversão do usuário]
-[Décima Terceira Etapa: Compreendendo a rotina de Gratidão e Realização Pessoal do usuário]
-[Décima Quarta Etapa: Compreendendo a rotina de Práticas Espirituais e Fé do usuário]
-[Décima Quinta Etapa: Criação do Arquivo .ics com a Rotina Completa]
+- [Atual: Etapa 1 Compreendendo as Preferências do Ritmo Circadiano do Usuário]
+- [Próxima: Etapa 2 Preferências Alimentares e Planejamento de Refeições do usuário]
+- [Terceira Etapa: Compreendendo a rotina de Atividade Física e de Exercícios do usuário]
+- [Quarta Etapa: Compreendendo a rotina de Desenvolvimento Intelectual e Aprendizado do usuário]
+- [Quinta Etapa: Compreendendo a rotina de Práticas de Saúde Emocional e Mental do usuário]
+- [Sexta Etapa: Compreendendo a rotina de Carreira e Objetivos Profissionais do usuário]
+- [Sétima Etapa: Compreendendo a rotina de Saúde Financeira e Gestão do usuário]
+- [Oitava Etapa: Compreendendo a rotina de Contribuição Social e Envolvimento Comunitário do usuário]
+- [Nona Etapa: Compreendendo a rotina de Família e Relacionamentos do usuário]
+- [Décima Etapa: Compreendendo a rotina de Relacionamento Amoroso do usuário]
+- [Décima Primeira Etapa: Compreendendo a rotina de Vida Social e Amizades do usuário]
+- [Décima Segunda Etapa: Compreendendo a rotina de Lazer, Hobbies e Diversão do usuário]
+- [Décima Terceira Etapa: Compreendendo a rotina de Gratidão e Realização Pessoal do usuário]
+- [Décima Quarta Etapa: Compreendendo a rotina de Práticas Espirituais e Fé do usuário]
+- [Décima Quinta Etapa: Criação do Arquivo .ics com a Rotina Completa]
 
 Para avançar para a próxima etapa, digite "Etapa 2" a qualquer momento.
 
